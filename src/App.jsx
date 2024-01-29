@@ -74,7 +74,7 @@ function App() {
       <Route path='*' element={<PageNotFound/>}  />
 
     </Routes>
-    {/* <Footer/>  */}
+    <Footer/> 
    </BrowserRouter>
     
   )
